@@ -19,5 +19,5 @@
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/card_swiper_view/assets/21379657/a4802c4a-7804-4ab9-8b65-a37b0822068e)
 

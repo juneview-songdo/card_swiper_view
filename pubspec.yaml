@@ -1,7 +1,7 @@
 name: card_swiper_view
 description: "card swiper view for june flow app."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/card_swiper_view
 
 version: 1.0.0+1
 
