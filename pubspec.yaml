@@ -3,7 +3,7 @@ description: "card swiper view for june flow app."
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/card_swiper_view
 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -14,7 +14,7 @@ dependencies:
   device_preview: ^1.1.0
   flutter:
     sdk: flutter
-  flutter_card_swiper: ^7.0.0
+  flutter_card_swiper: ^7.0.0 #@add
   flutter_screenutil: ^5.9.0
   flutter_svg: ^2.0.10+1
   flutter_zoom_drawer: ^3.2.0
