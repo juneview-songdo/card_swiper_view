@@ -3,7 +3,7 @@ description: "card swiper view for june flow app."
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/card_swiper_view
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
